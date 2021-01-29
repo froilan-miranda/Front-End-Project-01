@@ -10,3 +10,8 @@ footer{
     background-color: #063672;
     height: 25px;
 }
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #020f20;
+}
